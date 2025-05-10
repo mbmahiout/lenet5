@@ -1,3 +1,51 @@
+##################
+# --- python --- #
+##################
+
+# Finder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+# “Icon\r” files created by Finder
+
+# Thumbnails and indexing
+.Spotlight-V100
+.Trashes
+
+# Time Machine
+.com.apple.timemachine.donotpresent
+.com.apple.timemachine.supported
+
+# File system events
+.fseventsd
+.FSEvents-*
+
+# Temporary files
+.TemporaryItems
+.apdisk
+
+# Mounted volumes
+.VolumeIcon.icns
+
+# Document revision store
+.DocumentRevisions-V100
+
+# macOS extended attributes (resource forks)
+__MACOSX/
+._*
+
+# vim swap files on mac (if you use vim)
+*.swp
+
+
+##################
+# --- python --- #
+##################
+notebooks/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
